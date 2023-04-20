@@ -104,7 +104,7 @@ li {
 }
 .home {
     display: flex;
-    /* justify-content: space-between; */
+    justify-content: space-between;
 }
 
 .comp-name {
@@ -170,6 +170,7 @@ li {
 
 #shop {
     background-image: url(../assets/images/shop.png);
+    padding-bottom: 350px;
 }
 .shop {
     display: flex;
